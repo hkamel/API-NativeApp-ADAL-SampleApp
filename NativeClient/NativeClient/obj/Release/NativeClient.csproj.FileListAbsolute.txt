@@ -1,0 +1,13 @@
+c:\users\g1admin\source\repos\NativeClient\NativeClient\bin\Release\NativeClient.exe.config
+c:\users\g1admin\source\repos\NativeClient\NativeClient\bin\Release\NativeClient.exe
+c:\users\g1admin\source\repos\NativeClient\NativeClient\bin\Release\NativeClient.pdb
+c:\users\g1admin\source\repos\NativeClient\NativeClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\g1admin\source\repos\NativeClient\NativeClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+c:\users\g1admin\source\repos\NativeClient\NativeClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\g1admin\source\repos\NativeClient\NativeClient\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+c:\users\g1admin\source\repos\NativeClient\NativeClient\obj\Release\NativeClient.Form1.resources
+c:\users\g1admin\source\repos\NativeClient\NativeClient\obj\Release\NativeClient.Properties.Resources.resources
+c:\users\g1admin\source\repos\NativeClient\NativeClient\obj\Release\NativeClient.csproj.GenerateResource.Cache
+c:\users\g1admin\source\repos\NativeClient\NativeClient\obj\Release\NativeClient.csproj.CoreCompileInputs.cache
+c:\users\g1admin\source\repos\NativeClient\NativeClient\obj\Release\NativeClient.exe
+c:\users\g1admin\source\repos\NativeClient\NativeClient\obj\Release\NativeClient.pdb
